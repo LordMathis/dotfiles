@@ -1,3 +1,4 @@
 alias mkdir='mkdir -p'
 alias cat='bat'
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias condainit='source /home/matus/bin/anaconda3/etc/profile.d/conda.sh'
